@@ -9,7 +9,7 @@ a{
 }
 .navbar ul{
     position: relative;
-    bottom: 4px;
+    bottom: 5px;
     background-color: black;
     border: 4px solid black;
     height: 90px;
@@ -21,7 +21,7 @@ a{
     font-size: 35px;
     float: left;
     padding-top: 23px;
-    padding-left: 270px;
+    padding-left: 220px;
     
 }
 
